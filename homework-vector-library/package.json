@@ -1,19 +1,20 @@
 {
   "name": "homework-vector-library",
   "version": "1.0.0",
-  "description": "JS library for 2D vectors",
+  "description": "",
   "main": "src/vector.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-	"vector",
-	"2D",
-	"Math",
-	"library"
-
-],
+    "vector",
+    "2D",
+    "Math",
+    "library"
+  ],
   "author": "Ruslan Marchenko",
   "license": "MIT",
-  "description": ""
+  "devDependencies": {
+    "jsdoc": "^4.0.3"
+  }
 }
