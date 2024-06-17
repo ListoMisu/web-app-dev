@@ -3,6 +3,11 @@
 ## Vector Library:
 
 A JavaScript library for 2D vectors.
+## JSDoc Usage
+'''sh
+jsdoc src/vector.js
+'''
+HTML page can be found in newly generated /out/
 
 ### Installation
 
