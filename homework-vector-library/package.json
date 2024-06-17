@@ -1,7 +1,7 @@
 {
   "name": "homework-vector-library",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "2D Vector Library, check jsdoc and readme.md",
   "main": "src/vector.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
