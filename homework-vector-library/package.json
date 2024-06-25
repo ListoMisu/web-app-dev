@@ -4,7 +4,7 @@
   "description": "2D Vector Library, check jsdoc and readme.md",
   "main": "src/vector.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "vector",
@@ -15,6 +15,8 @@
   "author": "Ruslan Marchenko",
   "license": "MIT",
   "devDependencies": {
-    "jsdoc": "^4.0.3"
+    "chai": "^5.1.1",
+    "jsdoc": "^4.0.3",
+    "mocha": "^10.5.1"
   }
 }
