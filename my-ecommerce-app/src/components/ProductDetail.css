@@ -1,0 +1,16 @@
+/* src/components/ProductDetail.css */
+.product-detail {
+    display: flex;
+    gap: 20px;
+}
+
+.product-detail img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.product-detail div {
+    flex: 1;
+}
+

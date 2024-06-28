@@ -1,0 +1,21 @@
+/* src/App.css */
+.app {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.product-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cart {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 300px;
+}
+
